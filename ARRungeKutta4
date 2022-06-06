@@ -1,0 +1,2 @@
+In numerical analysis, the Runge–Kutta methods are a family of implicit and explicit iterative methods, which include the Euler method, used in temporal discretization for the approximate solutions of simultaneous non linear equations.
+So RK4 as a general format of the RK is a numerical method to solve differential equations, specifically the nonlinear ones. 
